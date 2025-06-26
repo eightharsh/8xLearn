@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 20,
+  "cssTheme": "Obsidian gruvbox",
+  "enabledCssSnippets": [
+    "full-width",
+    "gruvbox-fullwidth"
+  ],
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
+}

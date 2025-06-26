@@ -1,0 +1,39 @@
+/* === Full Width Editor and Preview for Gruvbox Theme === */
+
+/* Make source editor (edit mode) full width */
+.markdown-source-view,
+.markdown-source-view .cm-contentContainer {
+  max-width: 100% !important;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+/* Make Preview mode full width */
+.markdown-preview-view {
+  max-width: 100% !important;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+/* Make code blocks in preview full width and styled like Gruvbox */
+.markdown-preview-view pre {
+  max-width: 100% !important;
+  overflow-x: auto;
+  background-color: #282828; /* Gruvbox Dark Background */
+  color: #ebdbb2;            /* Gruvbox Light Foreground */
+  padding: 12px;
+  border-radius: 6px;
+  font-family: monospace;
+  line-height: 1.4;
+}
+
+/* Optional: Wide Table display */
+.markdown-preview-view table {
+  width: 100%;
+}
+
+/* Optional: Prevent horizontal split leaves from shrinking */
+.workspace-split.mod-horizontal > .workspace-leaf {
+  flex: 1 1 auto !important;
+}
+
