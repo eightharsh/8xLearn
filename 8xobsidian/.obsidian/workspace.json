@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming_Notes/cpp/learncpp.com/Introduction (ch-0)/0.1 Introduction to these tutorials.md",
+                "file": "cpp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.1 Introduction to these tutorials"
+              "title": "cpp"
             }
           }
         ]
@@ -185,9 +185,12 @@
   },
   "active": "cd0f016149556d1f",
   "lastOpenFiles": [
+    "guide-codeforces.md",
+    "cpp.md",
+    "Programming_Notes/cpp/learncpp.com/ch-0 Introduction/0.1 Introduction to these tutorials.md",
+    "Programming_Notes/cpp/learncpp.com/ch-1 C++ Basics/1.1 Statements and the structure of a program.md",
+    "Programming_Notes/cpp/learncpp.com/ch-1 C++ Basics",
     "track",
-    "Untitled.md",
-    "Programming_Notes/cpp/learncpp.com/Introduction (ch-0)/0.1 Introduction to these tutorials.md",
     "track/year.md",
     "track/week.md",
     "track/today.md",
@@ -196,9 +199,9 @@
     "Programming_Notes/cpp/learncpp.com/Introduction (ch-0)/0.3.md",
     "Programming_Notes/cpp/learncpp.com/Introduction (ch-0)/0.2.md",
     "Programming_Notes/cpp/learncpp.com/Introduction (ch-0)/0.1.md",
-    "Programming_Notes/cpp/learncpp.com/Introduction (ch-0)",
+    "Programming_Notes/cpp/learncpp.com/ch-0 Introduction",
     "Programming_Notes/cpp/learncpp.com/ch-0/Untitled",
-    "Programming_Notes/cpp/learncpp.com/Introduction (ch-0)",
+    "Programming_Notes/cpp/learncpp.com/ch-0 Introduction",
     "Programming_Notes/cpp/learncpp.com/chapter-0.md.md",
     "Untitled.canvas",
     "2025-06-26.md",
